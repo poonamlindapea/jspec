@@ -1,1 +1,1 @@
-fix non-coco val
+Add dota8.yaml and O tests (#7394)
