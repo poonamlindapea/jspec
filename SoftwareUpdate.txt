@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Update Docs Home and Neural Magic pages (#7243)
