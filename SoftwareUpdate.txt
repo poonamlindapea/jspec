@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
