@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
