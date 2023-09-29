@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update mkdocs.yml (#7693)
