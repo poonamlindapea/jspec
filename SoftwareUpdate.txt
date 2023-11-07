@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
