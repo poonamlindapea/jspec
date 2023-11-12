@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
