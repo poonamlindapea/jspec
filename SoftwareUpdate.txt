@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Improve Docs Modes tables (#8266)
