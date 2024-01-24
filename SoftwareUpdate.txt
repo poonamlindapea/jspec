@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add NCNN Docs Integrations Page (#8562)
