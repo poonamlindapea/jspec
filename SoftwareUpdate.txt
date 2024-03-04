@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
