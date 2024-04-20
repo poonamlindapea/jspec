@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add TensorRT Docs Integrations Page (#7855)
