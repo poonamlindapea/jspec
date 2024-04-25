@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
