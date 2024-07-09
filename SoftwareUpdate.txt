@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Model typehints Docker fix (#8306)
