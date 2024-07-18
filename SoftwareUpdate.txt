@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Explorer with LanceDB, Actions and Docs updates (#7487)
